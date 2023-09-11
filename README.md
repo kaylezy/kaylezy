@@ -2,7 +2,7 @@
 
 ## FrontEnd Website Developer (FE) and love to contribute in an Open Source Code.
 
-Goal-oriented and a Graduate of Accounting who is passionate about front-end engineering. Passionate about website and application development and currently a member of Google Andela Developers(GADS).
+Goal-oriented and a Graduate of Accounting who is passionate about front-end engineering. Passionate about website and application development and currently a member of Google Andela Developers(GADS), DevCareer Africa and Altschool Africa Community.
 
 I've recently completed a training with Andela and some other intenship training including Zuri intenship.
 
