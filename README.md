@@ -1,6 +1,6 @@
 <h1>Hi 👋 My name is Olakunle Hassan.</h1>
 
-## FrontEnd Website Developer (FE) and love to contribute in an Open Source Code.
+## FrontEnd Website Developer (FE) and love to contribute to an Open Source Code.
 
 Goal-oriented and a Graduate of Accounting who is passionate about front-end engineering. Passionate about website and application development and currently a member of Google Andela Developers(GADS), DevCareer Africa and Altschool Africa Community.
 
