@@ -1,6 +1,6 @@
 <h1>Hi there! 👋 I'm Olakunle Hassan.</h1>
 
-## FrontEnd Website Developer (FE) and love to contribute in an Open Source Code.
+## FrontEnd Website Developer (FE) and love to contribute in an Open Source Project.
 
 Goal-oriented and a Graduate of Accounting who is passionate about front-end engineering. 
 
@@ -47,5 +47,5 @@ Here's a quick summary about me:  <br>
 </p>
 
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=olakunlehassan&show_icons=true&include_all_commits=true&hide_border=true" alt="Olakunle's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olakunlehassan&langs_count=8&layout=compact&hide_border=true" alt="Olakunle's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaylezy&show_icons=true&include_all_commits=true&hide_border=true" alt="Olakunle's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylezy&langs_count=8&layout=compact&hide_border=true" alt="Olakunle's GitHub stats" /> |
 | ------------- | ------------- |
