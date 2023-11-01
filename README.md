@@ -1,4 +1,4 @@
-<h1>Hi 👋 My name is Olakunle Hassan.</h1>
+<h1>Hi there! 👋 My name is Olakunle Hassan.</h1>
 
 ## FrontEnd Website Developer (FE) and love to contribute in an Open Source Code.
 
@@ -10,16 +10,16 @@ I'm passionate about sharing knowledge, documentation, web engineering, Jamstack
 
 I'm also an active member of numerous developer communities like Ingressive For Good, DevCareer Africa, Tech Hub Community, I4GxZuri community, Frontend Mentor community and codewithAgbaAkin on discord community.
 
-Here's a quick summary about me:
+Here's a quick summary about me:  <br>
 
-😊 Pronouns: He/him
-💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2023.
-🌱 I’m currently learning HTML, CSS, BootstrapCss, JavaScript, Reactjs, and Nodejs.
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-📫 You can view my resume and contact me by emailing mailtokunlex_042003@yahoo.com.
+😊 Pronouns: He/him  <br>
+💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2023.  <br>
+🌱 I’m currently learning HTML, CSS, BootstrapCss, JavaScript, Reactjs, and Nodejs.  <br>
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.  <br>
+💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).  <br>
+📫 You can view my resume and contact me by emailing mailtokunlex_042003@yahoo.com.  <br>
 🌍 I'm based in Lagos State, Nigeria. <br>
-🤝 I'm open to collaborating on HTML, CSS and Javascript and reactjs projects!
+🤝 I'm open to collaborating on HTML, CSS and Javascript and reactjs projects!  <br>
 
 ---
 
