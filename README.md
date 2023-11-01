@@ -1,14 +1,15 @@
-<h1>Hi there! 👋 My name is Olakunle Hassan.</h1>
+<h1>Hi there! 👋 I'm Olakunle Hassan.</h1>
+<hr>
 
 ## FrontEnd Website Developer (FE) and love to contribute in an Open Source Code.
 
 Goal-oriented and a Graduate of Accounting who is passionate about front-end engineering. 
 
-Passionate about website and application development and currently a member of Google Andela Developers(GADS), DevCareer Africa and Altschool Africa Community.
+Passionate about website and application development and currently a member of numerous developer communities like Ingressive For Good, DevCareer Africa, Tech Hub Community, I4GxZuri community, Frontend Mentor community, codewithAgbaAkin on discord community, Google Andela Developers(GADS), DevCareer Africa and Altschool Africa Community.
 
-I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others.
+I'm also passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others.
 
-I'm also an active member of numerous developer communities like Ingressive For Good, DevCareer Africa, Tech Hub Community, I4GxZuri community, Frontend Mentor community and codewithAgbaAkin on discord community.
+
 
 Here's a quick summary about me:  <br>
 
