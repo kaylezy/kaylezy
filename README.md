@@ -1,6 +1,6 @@
 <h1>Hi there! 👋 I'm Olakunle Hassan.</h1>
 
-## FrontEnd Website Developer (FE) and love to contribute in an Open Source Project.
+## FrontEnd Website Developer (FE) and would love to contribute to an Open Source Project.
 
 Goal-oriented and a Graduate of Accounting who is passionate about front-end engineering. 
 
