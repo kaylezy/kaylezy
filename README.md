@@ -13,10 +13,10 @@ I'm also passionate about sharing knowledge, documentation, web engineering, Jam
 Here's a quick summary about me:  <br>
 
 😊 Pronouns: He/him  <br>
-💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.  <br>
-🌱 I’m currently learning HTML, CSS, BootstrapCss, JavaScript, Reactjs, and Nodejs.  <br>
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.  <br>
-💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).  <br>
+💡 Fun fact: Diploma, Software Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.  <br>
+🌱 Conversant with HTML, CSS, BootstrapCss, JavaScript, Typescript, Reactjs, Vuejs, NextJs and Nodejs.  <br>
+😊 I’m looking for help with open source projects, hackathons, internships, and job opportunities.  <br>
+💼 Job interests: Software Engineer, Frontend Developer.  <br>
 📫 You can view my resume and contact me by emailing mailtokunlex_042003@yahoo.com.  <br>
 🌍 I'm based in Lagos State, Nigeria. <br>
 🤝 I'm open to collaborating on HTML, CSS, Javascript, Typescript, Reactjs,  Vuejs and Nextjs projects!  <br>
